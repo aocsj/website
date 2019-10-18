@@ -1,0 +1,18 @@
+.parallax {
+  background-attachment: fixed;
+  background-size: 100vw auto !important;
+  height: 38vw;
+  width: 100vw;
+  background-position-y: 50px !important;
+}
+
+@media screen and (max-width: 768px) {
+  .parallax {
+    background-attachment: initial;
+    background-size: 100vw auto !important;
+    height: 38vw;
+    width: 100vw;
+    background-position-y: initial !important;
+  }
+}
+
