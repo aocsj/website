@@ -4,8 +4,9 @@
 
 # Configure the English version of the site.
 [en]
-  languageCode = "en-us"
+  languageCode = "en"
   # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  dateFormat = "2006/01/02"
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
@@ -18,3 +19,10 @@
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+
+
+[ja]
+  languageCode = "ja"
+  # contentDir = "content/ja"
+  dateFormat = "2006年01月02日"
+
