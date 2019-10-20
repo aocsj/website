@@ -20,14 +20,23 @@ weight = 10  # Order that this section will appear.
   image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "right"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "300px", "0"]
+  padding = ["0", "0", "0", "0"]
+
+[advanced]
+  css_style = """
+    background-attachment: fixed;
+    background-size: 100vw auto;
+    height: 38vw;
+    width: 100vw;
+    background-position-y: 50px;
+  """
 +++
 ## 二度と、絶滅という悲劇を繰り返さないために ──
 
