@@ -33,6 +33,7 @@ weight = 10  # Order that this section will appear.
   css_style = """
     background-attachment: fixed;
     background-size: 100vw auto;
+    -webkit-background-size: 100vw auto;
     height: 38vw;
     width: 100vw;
     background-position-y: 50px;
