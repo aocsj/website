@@ -29,15 +29,6 @@ weight = 10  # Order that this section will appear.
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["0", "0", "0", "0"]
 
-[advanced]
-  css_style = """
-    background-attachment: fixed;
-    background-size: 100vw auto;
-    -webkit-background-size: 100vw auto;
-    height: 38vw;
-    width: 100vw;
-    background-position-y: 50px;
-  """
 +++
 ## 二度と、絶滅という悲劇を繰り返さないために ──
 
