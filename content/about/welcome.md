@@ -1,5 +1,18 @@
 ---
-title: ようこそ日本アジアカワウソ協会へ！
+widget: "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless: true  # This file represents a page section.
+active: true  # Activate this widget? true/false
+weight: 10  # Order that this section will appear.
+
+title: ようこそ日本アジアカワウソ保全協会へ
+
+design:
+  columns: "1"
+
+image:
+  placement: 1
+  focal_point: "Center"
+  preview_only: false
 ---
 
 ## カワウソとは？

@@ -25,4 +25,5 @@ title = "協会の使命"
   name = "国際学術交流<br>Global Interaction"
   description = "世界中のカワウソ研究者との情報交換・交流"
 +++
+[もっと詳しく見る ››](./about/)
 
