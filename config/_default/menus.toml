@@ -8,25 +8,31 @@
   url = "#cover"
   weight = 10
 
-#[[main]]
-#  name = "使命"
-#  url = "#missions"
-#  weight = 20
+[[main]]
+  name = "協会について"
+  url = "/about"
+  weight = 20
+
+[[main]]
+  name = "寄付のお願い"
+  url = "/donation"
+  weight = 30
 
 [[main]]
   name = "お知らせ"
   url = "#news"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "プレスリリース"
   url = "#press-release"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "お問い合わせ"
   url = "#contact"
   weight = 60
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
