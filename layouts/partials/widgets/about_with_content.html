@@ -56,6 +56,10 @@
       </div>
       {{ end }}
 
+      {{ if $person_page.Params.Content }}
+      <p>{{ $person_page.Params.Content }}</p>
+      {{ end }}
+
       {{ with $person.education }}
       <div>
         <h3>{{ i18n "education" | markdownify }}</h3>

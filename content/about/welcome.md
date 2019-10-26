@@ -8,12 +8,9 @@ title: ようこそ日本アジアカワウソ保全協会へ
 
 design:
   columns: "1"
-
-image:
-  placement: 1
-  focal_point: "Center"
-  preview_only: false
 ---
+
+{{< figure src="otter.png" alt="カワウソ" >}}
 
 ## カワウソとは？
 カワウソは食肉目イタチ科の動物で、世界にラッコなどを含む13種が生息していますが、そのほとんどが過去の毛皮を目的とした乱獲、生息地の破壊、水質汚染などにより絶滅の危機に瀕しています。
