@@ -13,7 +13,7 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["顧問", "理事会", "監事", "事務局"]
+  user_groups = ["理事会", "監事", "事務局", "顧問"]
 
 [design]
   # Show user's social networking links? (true/false)
