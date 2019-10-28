@@ -1,0 +1,5 @@
+# Redirect settings for Netlify
+
+/wp-content/uploads/2019/10/paper.pdf       /2019/10/symposium/leaflet.pdf
+/wp-content/uploads/2019/10/poster.pdf      /2019/10/symposium/poster.pdf
+

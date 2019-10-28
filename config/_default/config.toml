@@ -72,3 +72,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   date = ["date", "publishDate", ":filename", "lastmod"]
   lastmod = [":git", "lastmod", "date", "publishDate", ":filename"]
 
+[permalinks]
+  news = "/:year/:month/:slug/"
+  press-release = "/:year/:month/:slug"
+
