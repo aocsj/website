@@ -1,6 +1,6 @@
 ---
 title: 「日本アジアカワウソ保全協会」団体設立について
-summary: 2019年10月1日をもって、本協会が設立されました。
+summary: 2019年10月1日をもって、本協会は設立されました。
 links:
   - icon_pack: fas
     icon: images
