@@ -29,7 +29,7 @@ education:
      year: 1981
    - course: 博士 (理学)
      institution: 九州大学
-     year: 1990
+     year: 1994
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
