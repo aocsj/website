@@ -5,11 +5,11 @@ authors:
 - yokamoto
 links:
   - name: 日本語PDF
-    url: "report.ja.pdf"
+    url: "report-ja.pdf"
     icon_pack: fas
     icon: file-pdf
   - name: English PDF
-    url: "report.en.pdf"
+    url: "report-en.pdf"
     icon_pack: fas
     icon: file-pdf
 ---
