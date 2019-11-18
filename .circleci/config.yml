@@ -1,0 +1,39 @@
+version: 2.1
+jobs:
+  frontmatter-violation:
+    docker:
+      - image: buildpack-deps:trusty
+    environment:
+      - TARGET_DIRS: "news|press-release"
+    steps:
+      - checkout
+      - run:
+          name: Check title and summary field
+          shell: /bin/bash
+          command: |
+            files=$(git diff --name-only --diff-filter=ACMR origin/master..HEAD -- '*.md' | grep -P "content/(${TARGET_DIRS})/")
+            [ -z "$files" ] && exit 0
+            for file in $files ; do
+              if [ -z "$( cat "$file" | grep -oPz '\-{3}[\s\S]+?title:[\s\S]+?\-{3}' )" ] || [ -z "$(cat "$file" | grep -oPz '\-{3}[\s\S]+?summary:[\s\S]+?\-{3}')" ] ; then
+                echo 'Error: Either title or summary field is not satisfied!'
+                exit 1
+              fi
+            done
+  duplicate-url:
+    docker:
+      - image: cibuilds/hugo:latest
+    steps:
+      - checkout
+      - run:
+          name: Check duplicated URL
+          command: |
+            [ -z "$(hugo -DEF --path-warnings --renderToMemory | grep -P 'WARN.*Duplicate target paths')" ]
+workflows:
+  version: 2
+  requirements:
+    jobs:
+      - frontmatter-violation
+  site-validity:
+    jobs:
+      - duplicate-url
+
