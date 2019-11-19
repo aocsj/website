@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "協会の成果"
@@ -22,7 +22,7 @@ date_format = "2006年 1月"
   title = "緊急シンポジウム"
   organization = "日本アジアカワウソ保全協会"
   organization_url = ""
-  url = "/news/2019/10/symposium.html"
+  url = "/2019/11/symposium-report/"
   certificate_url = ""
   date_start = "2019-11-03"
   date_end = ""
