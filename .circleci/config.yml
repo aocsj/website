@@ -12,6 +12,7 @@ jobs:
       - run:
           name: Check directory structure
           shell: /bin/bash
+          when: always
           command: |
             files=$(git diff --name-only --diff-filter=ACMR origin/master..HEAD -- '*.md' | grep -P "content/(${TARGET_DIRS})/")
             [ -z "$files" ] && exit 0
@@ -19,6 +20,7 @@ jobs:
       - run:
           name: Check filesize of images
           shell: /bin/bash
+          when: always
           command: |
             files=$(git diff --name-only --diff-filter=ACMR origin/master..HEAD -- '*.jpg' '*.png' | grep -P "content/(${TARGET_DIRS})/")
             [ -z "$files" ] && exit 0
@@ -26,6 +28,7 @@ jobs:
       - run:
           name: Check title and summary field
           shell: /bin/bash
+          when: always
           command: |
             files=$(git diff --name-only --diff-filter=ACMR origin/master..HEAD -- '*.md' | grep -P "content/(${TARGET_DIRS})/")
             [ -z "$files" ] && exit 0
@@ -37,6 +40,7 @@ jobs:
             done
       - run:
           name: Check duplicated URL
+          when: always
           command: |
             [ -z "$(hugo -DEF --path-warnings --renderToMemory | grep -P 'WARN.*Duplicate target paths')" ]
 
