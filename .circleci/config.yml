@@ -5,6 +5,7 @@ jobs:
       - image: buildpack-deps:trusty
     environment:
       - TARGET_DIRS: "news|press-release"
+      - IMG_SIZE_LIMIT: "500000"
     steps:
       - checkout
       - run:
@@ -14,6 +15,13 @@ jobs:
             files=$(git diff --name-only --diff-filter=ACMR origin/master..HEAD -- '*.md' | grep -P "content/(${TARGET_DIRS})/")
             [ -z "$files" ] && exit 0
             [ -n "$(echo "$files" | grep -vP 'content/(${TARGET_DIRS})/[0-9]{4}-[0-9]{2}-[0-9]{2}-[^/]+/index\.md$')" ] && exit 1
+      - run:
+          name: Check filesize of images
+          shell: /bin/bash
+          command: |
+            files=$(git diff --name-only --diff-filter=ACMR origin/master..HEAD -- '*.jpg' '*.png' | grep -P "content/(${TARGET_DIRS})/")
+            [ -z "$files" ] && exit 0
+            [ "$(wc -c < "$files")" -gt $IMG_SIZE_LIMIT ] && exit 1
       - run:
           name: Check title and summary field
           shell: /bin/bash
