@@ -1,8 +1,9 @@
-version: 2.1
+version: 2
 jobs:
-  format-violation:
+  build:
     docker:
       - image: buildpack-deps:trusty
+      - image: cibuilds/hugo:latest
     environment:
       - TARGET_DIRS: "news|press-release"
       - IMG_SIZE_LIMIT: "500000"
@@ -34,21 +35,8 @@ jobs:
                 exit 1
               fi
             done
-  duplicate-url:
-    docker:
-      - image: cibuilds/hugo:latest
-    steps:
-      - checkout
       - run:
           name: Check duplicated URL
           command: |
             [ -z "$(hugo -DEF --path-warnings --renderToMemory | grep -P 'WARN.*Duplicate target paths')" ]
-workflows:
-  version: 2
-  requirements:
-    jobs:
-      - format-violation
-  site-validity:
-    jobs:
-      - duplicate-url
 
