@@ -1,0 +1,53 @@
+version: 2
+jobs:
+  build:
+    docker:
+      # - image: buildpack-deps:trusty
+      - image: cibuilds/hugo:latest
+    environment:
+      - TARGET_DIRS: "news|press-release"
+      - IMG_SIZE_LIMIT: "500000"
+    steps:
+      - checkout
+      - run:
+          name: Check directory structure
+          shell: /bin/bash
+          when: always
+          command: |
+            files=$(git diff --name-only --diff-filter=ACMR origin/master..HEAD -- '*.md' | grep -P "content/(${TARGET_DIRS})/")
+            [ -z "$files" ] && exit 0
+            # grep option -v: select non-matching lines
+            ! echo -n "$files" | grep -vP "content/(${TARGET_DIRS})/[0-9]{4}-[0-9]{2}-[0-9]{2}-[^/]+/index\.md$"
+      - run:
+          name: Check filesize of images
+          shell: /bin/bash
+          when: always
+          command: |
+            files=$(git diff --name-only --diff-filter=ACMR origin/master..HEAD -- '*.jpg' '*.png' | grep -P "content/(${TARGET_DIRS})/")
+            [ -z "$files" ] && exit 0
+            [ "$(wc -c < "$files")" -lt $IMG_SIZE_LIMIT ]
+      - run:
+          name: Check title and summary field
+          shell: /bin/bash
+          when: always
+          command: |
+            files=$(git diff --name-only --diff-filter=ACMR origin/master..HEAD -- '*.md' | grep -P "content/(${TARGET_DIRS})/")
+            [ -z "$files" ] && exit 0
+            for file in $files ; do
+              # grep options
+              # -o: show only nonempty parts of lines that match
+              # -P: PATTERNS are Perl regular expressions
+              # -z: a data line ends in 0 byte, not newline
+              # -a: assume that binary files are 'text'
+              if grep -oPzva '\-{3}[\s\S]+?title:[\s\S]+?\-{3}' "$file" || grep -oPzva '\-{3}[\s\S]+?summary:[\s\S]+?\-{3}' "$file" ; then
+                echo "Error: Either title or summary field is not satisfied on $file"
+                exit 1
+              fi
+            done
+      - run:
+          name: Check duplicated URL
+          shell: /bin/bash
+          when: always
+          command: |
+            ! hugo -DEF --path-warnings --renderToMemory | grep -P 'WARN.*Duplicate target paths'
+
