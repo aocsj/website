@@ -25,7 +25,7 @@ bio: 筑紫女学園大学教授 / IUCN カワウソ専門家グループ
 education:
   courses:
    - course: 学士 (農学)
-     institution: 東京農業大学
+     institution: 東京農工大学
      year: 1981
    - course: 博士 (理学)
      institution: 九州大学
