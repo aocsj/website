@@ -30,7 +30,9 @@ jobs:
           command: |
             files=$(git diff --name-only --diff-filter=ACMR origin/master..HEAD -- '*.jpg' '*.png' | grep -P "content/(${TARGET_DIRS})/")
             [ -z "$files" ] && exit 0
-            [ "$(wc -c < "$files")" -lt $IMG_SIZE_LIMIT ]
+            for file in $(echo $files); do
+              [ "$(wc -c < "$file")" -lt $IMG_SIZE_LIMIT ] || exit 1
+            done
       - run:
           name: Check title and summary field
           shell: /bin/bash
@@ -38,7 +40,7 @@ jobs:
           command: |
             files=$(git diff --name-only --diff-filter=ACMR origin/master..HEAD -- '*.md' | grep -P "content/(${TARGET_DIRS})/")
             [ -z "$files" ] && exit 0
-            for file in $files ; do
+            for file in $(echo $files); do
               # grep options
               # -o: show only nonempty parts of lines that match
               # -P: PATTERNS are Perl regular expressions
