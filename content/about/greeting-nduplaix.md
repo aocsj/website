@@ -18,5 +18,37 @@ title: IUCNカワウソ専門家グループ議長からの応援メッセージ
 
 皆さんの情熱と協力無しでは、カワウソの保全活動は成功させることができません。そのため、より全員が一丸となり活動に取り組むため、この協会が設立されました。そして、カワウソと地球のより良い未来のため我々はこれらの努力を確実に啓蒙していかなければなりません。日本アジアカワウソ保全協会の成功を、応援しています！
 
+<details>
+<summary>応援メッセージ原文（英語）</summary>
+Hello, everyone!
+I am Dr. Nicole Duplaix, who founded the IUCN Otter Specialist group in 1974, shared my passion for the conservation of the thirteen species of otters spread around the world.
+Today there are 345 members of this group to help spread the conservation message and to learn more about what otters need to survive.
+
+Japan lost its very own otter subspecies.
+It became extinct recently. It will not return.
+ecently, otters from a foreign country were found in Tsushima, Nagasaki, its conservation is getting more important.
+Yet otters are incredibly resilient animals.
+Give them protection and healthy rivers with fish, and they will survive.
+We have seen this happen in huge cities like Singapore where otter family groups parade through the parks from one fishing spot to another, surrounded by people.
+We have watched their return to the United Kingdom where otters were scarce in the 1970s, but now live in every county.
+We witnessed the return of sea otters to the Pacific Rim, from the brink of extinction in the 1900s to large populations living along the coast of North America.
+Yet otter populations everywhere remain fragile and at risk.
+When wetlands shrink and fisheries dwindle conflicts arise between people and otters, and the otters lose.
+Threats take many forms.
+For instance, China’s new wealth spurs the illegal trade in precious furs and curios, otters included.
+As countries prosper and urban areas seemingly appear overnight, the wildlife departs.
+
+Otters are charismatic and people often say otter cubs are so cute.
+Today, in Japan, you can see otters in otter cafes.
+This may seem harmless and fun but it is decimating the wild otter populations in Southeast Asia.
+A whole family of 10 otters or more are killed to catch a few otter cubs and sell them via the internet.
+They are then smuggled into Japan and many die along the way.
+This problem also should be solved as soon as possible. Please help us stop this!
+
+Without your enthusiasm and support, we will not succeed.
+We know what needs to be done, we have launched conservation programs before and the otters returned to their former haunts, but we must expand these efforts significantly if we are to ensure that otters have a secure future in Asia and on the planet.
+Wish the succeed of this society, cheers!
+</details>
+
 <img src="signature-nduplaix.jpg" alt="ニコル・デュプレのサイン" style="max-width: 15em;">
 
