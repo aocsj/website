@@ -5,6 +5,15 @@ authors:
   - yokamoto
 image:
   preview_only: true 
+links:
+  - name: 日本語PDF
+    url: Singapore-report-ja.pdf
+    icon_pack: fas
+    icon: file-pdf
+  - name: English PDF
+    url: Singapore-report-en.pdf
+    icon_pack: fas
+    icon: file-pdf
 ---
 東南アジアに位置するシンガポールは、近年稀に見る都市型カワウソ保全の成功場所として有名であり、コツメカワウソ ( *Aonyx cinereus* ) およびビロードカワウソ ( *Lutrogale perspicillata* ) の分布地である。
 
