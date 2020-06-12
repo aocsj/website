@@ -1,0 +1,91 @@
+backend:
+  name: github
+  repo: aocsj/website
+  squash_merges: true
+
+locale: ja
+
+publish_mode: editorial_workflow
+
+media_folder: static/img/uploads
+public_folder: /img/uploads
+
+slug:
+  encoding: ascii
+  clean_accents: true
+
+collections:
+  - name: news
+    label: ニュース記事
+    folder: content/news
+    create: true
+    path: '{{year}}-{{month}}-{{fields.slug}}/index'
+    preview_path: '{{year}}/{{month}}/{{fields.slug}}/'
+    media_folder: ''
+    public_folder: ''
+    fields:
+      - label: 記事タイトル
+        name: title
+        widget: string
+      - label: 要約
+        name: summary
+        widget: string
+      - label: URL 用英語タイトル (可能な限り短く！)
+        name: slug
+        widget: string
+        pattern:
+          - '^[a-zA-Z0-9_ -]{1,20}$'
+          - 英数字最大 20 文字
+      - label: 日付
+        name: date
+        widget: date
+      - label: サムネイル画像
+        name: thumbnail
+        widget: image
+        allow_multiple: false
+        pattern:
+          - '.*featured\..{3,4}$'
+          - ファイル名が小文字の "featured"
+        hint: ファイルサイズが 500 KB 未満でファイル名が featured である画像を送信してください。
+      - label: サムネイル表示設定
+        name: image
+        widget: object
+        collapsed: true
+        fields:
+          - label: 記事内には表示しない
+            name: preview_only
+            widget: boolean
+            default: false
+      - label: 執筆者
+        name: authors
+        widget: relation
+        collection: authors
+        searchFields:
+          - name
+          - authors.0
+        valueField: authors.0
+        displayFields:
+          - name
+          - authors.0
+        multiple: true
+      - label: 本文
+        name: body
+        widget: markdown
+        hint: |
+          Netlify CMS のバグのため、このフィールドに直接日本語入力をすることができません。
+          まずは他のアプリで文章だけ先に作成してから、このフィールドにコピー・アンド・ペーストしてください。
+          太字・斜体などの装飾は、装飾を行いたい部分を選択してから上部のボタンで適用してください。
+  - name: authors
+    label: 執筆者一覧
+    folder: content/authors
+    create: false
+    path: '{{authors.0}}/_index'
+    preview_path: 'authors/{{name}}/'
+    media_folder: ''
+    public_folder: ''
+    hide: true
+    fields:
+      - name: name
+        widget: string
+      - name: authors
+        widget: list
