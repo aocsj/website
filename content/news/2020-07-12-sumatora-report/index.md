@@ -27,7 +27,7 @@ authors:
 
 ![pastedGraphic.png](featured.jpeg "図1. 水浴び後に元気よくナマズをたべるユーラシアカワウソ")
 
-# **カワウソが保護されているNGO**
+# カワウソが保護されているNGO
 
 今回カワウソが保護されている場所はメダンから車で3時間ほど移動したブキットラワン（Bukit Lawang）です。ブキットラワンはオランウータンツアーでも有名な場所ですが、ここで活動しているNGOの代表がBobiさんです。Bobiさんのグループは宿泊施設「Bukit Lawang Hill Resort」の収益を主な活動資金に、違法捕獲・飼育された動物の保護・自然復帰を行っています。反社会的組織を敵に回し殺害予告を何回もされながらも、銃を携行した森林警察の助けも借りながらコブラから鳥類・哺乳類まで幅広く保護に対応されています。
 
@@ -37,11 +37,11 @@ authors:
 
 動画：<https://photos.app.goo.gl/Uk1J6DBr5YDofq9p7>
 
-# **簡単にはいかない遺伝子検査**
+# 簡単にはいかない遺伝子検査
 
 インドネシアは遺伝子資源の海外持ち出しに特に厳しい制限を掛けている国の一つです。インドネシアの研究機関に正式な協力者がいたとしても、国などへの事務手続き完了は最短半年と言われています。今回は急遽対応したこともあり、遺伝子検査のために試料を持ち帰ることはできませんでした。そこで我々はインドネシアの首都ジャカルタにある研究機関での遺伝子検査を目指しています。全世界に広がっているCOVID-19の影響が落ち着き、国の行き来が容易になった際は再びインドネシアを訪問し、このカワウソの正体に迫りたいと思います。
 
-# **Report of Eurasian otter *Lutra lutra* of Sumatra island**
+# Report of Eurasian otter *Lutra lutra* of Sumatra island
 
 Last year (2019), Eurasian otter *Lutra lutra* was found and taken from illegal keeping in Sumatra island, Indonesia. This is the first report of this individuals that donated found for care center of NGO from Japanese. We visited Sumatra island in January and check that looks and behavior, we confirmed this otter as Eurasian otter without an evidence of DNA. This Eurasian otter is the first record of this century, in more than 80 years in Sumatra islands. We will do check the DNA of this otter in a non-invasive way in Jakarta after the corona virus crisis.
 
