@@ -41,12 +41,15 @@ collections:
         widget: date
       - label: サムネイル画像
         name: thumbnail
+        required: false
         widget: image
         allow_multiple: false
         pattern:
           - '.*featured\..{3,4}$'
           - ファイル名が小文字の "featured"
-        hint: ファイルサイズが 500 KB 未満でファイル名が featured である画像を送信してください。
+        hint: |
+          ファイルサイズが 500 KB 未満でファイル名が featured である画像を送信してください。
+          基本的にはサムネイル画像は必ず送信するようにしてください。
       - label: サムネイル表示設定
         name: image
         widget: object
@@ -58,6 +61,7 @@ collections:
             default: false
       - label: 執筆者
         name: authors
+        required: false
         widget: relation
         collection: authors
         searchFields:
@@ -72,8 +76,8 @@ collections:
         name: body
         widget: markdown
         hint: |
-          Netlify CMS のバグのため、このフィールドに直接日本語入力をすることができません。
-          まずは他のアプリで文章だけ先に作成してから、このフィールドにコピー・アンド・ペーストしてください。
+          このフィールドに直接日本語入力をするとうまくいきません。
+          他のアプリで文章だけ先に作成してから、このフィールドにコピー・アンド・ペーストしてください。
           太字・斜体などの装飾は、装飾を行いたい部分を選択してから上部のボタンで適用してください。
   - name: authors
     label: 執筆者一覧
