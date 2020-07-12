@@ -1,16 +1,12 @@
 ---
 title: 2019年度環境省対馬のカワウソ生息状況調査開始
 summary: 10月13日から19日にかけて、環境省が対馬でカワウソの生息状況調査を行います。
-
-# Featured image
-# To use, place an image named `featured.jpg/png` in your page's folder.
-# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-# Set `preview_only` to `true` to just use the image for thumbnails.
+slug: sumatora-report
+date: 2020-07-12T08:12:46.841Z
 image:
   placement: 1
-  caption: "糞のサンプル"
-  focal_point: "Center"
+  caption: 糞のサンプル
+  focal_point: Center
   preview_only: false
 ---
 環境省は、対馬のカワウソ生息状況調査を、10月13日から19日まで一週間実施します。日本アジアカワウソ保全協会のメンバー4人もこの調査に参加します。
