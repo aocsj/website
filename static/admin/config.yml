@@ -19,7 +19,8 @@ collections:
     label: ニュース記事
     folder: content/news
     create: true
-    path: '{{year}}-{{month}}-{{fields.slug}}/index'
+    slug: '{{fields.slug}}'
+    path: '{{year}}-{{month}}-{{day}}-{{slug}}/index'
     preview_path: '{{year}}/{{month}}/{{fields.slug}}/'
     media_folder: ''
     public_folder: ''
