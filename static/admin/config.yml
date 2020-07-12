@@ -19,7 +19,8 @@ collections:
     label: ニュース記事
     folder: content/news
     create: true
-    path: '{{year}}-{{month}}-{{fields.slug}}/index'
+    slug: '{{year}}-{{month}}-{{day}}-{{fields.slug}}'
+    path: '{{slug}}/index'
     preview_path: '{{year}}/{{month}}/{{fields.slug}}/'
     media_folder: ''
     public_folder: ''
@@ -34,8 +35,8 @@ collections:
         name: slug
         widget: string
         pattern:
-          - '^[a-zA-Z0-9_ -]{1,20}$'
-          - 英数字最大 20 文字
+          - '^[a-zA-Z0-9_ -]{1,30}$'
+          - 英数字最大 30 文字
       - label: 日付
         name: date
         widget: date
