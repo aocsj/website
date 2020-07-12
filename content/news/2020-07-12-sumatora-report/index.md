@@ -2,7 +2,7 @@
 title: インドネシア・スマトラ島のカワウソについて（第一報）
 summary: 当協会理事の和久より、昨年インドネシアのスマトラ島で発見されたユーラシアカワウソの報告をさせていただきます。
 slug: sumatora-report
-date: 2020-07-12T10:17:56.144Z
+date: 2020-07-13T10:17:56.144Z
 thumbnail: featured.jpeg
 image:
   preview_only: false
