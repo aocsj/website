@@ -1,7 +1,7 @@
 ---
 title: 訃報
 summary: 当協会顧問の安藤元一氏がご逝去されました
-slug: drando2
+slug: dr-ando
 date: 2020-07-14T11:53:36.774Z
 image:
   preview_only: false
