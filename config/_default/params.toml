@@ -86,12 +86,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "asian.ottercs1979@gmail.com"
-phone = "092-925-9583"
+phone = "092-925-9583 （佐々木研究室）"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 # address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
-address = {street = "〒818-0192 福岡県太宰府市石坂 2-12-1", country_code = "JP"}
+address = {street = "〒818-0192 福岡県太宰府市石坂 2-12-1 筑紫女学園大学現代社会学部佐々木研究室", country_code = "JP"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
