@@ -1,6 +1,6 @@
 ---
 # Display name
-name: キムヒョンジン
+title: キムヒョンジン
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: ニコル・デュプレ
+title: ニコル・デュプレ
 
 # Username (this should match the folder name)
 authors:

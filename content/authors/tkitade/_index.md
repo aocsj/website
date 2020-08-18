@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 北出智美
+title: 北出智美
 
 # Username (this should match the folder name)
 authors:
