@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 中木原舞
+title: 中木原舞
 
 # Username (this should match the folder name)
 authors:

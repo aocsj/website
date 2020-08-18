@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 日本アジアカワウソ保全協会
+title: 日本アジアカワウソ保全協会
 
 # Username (this should match the folder name)
 authors:
