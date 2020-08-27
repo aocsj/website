@@ -51,7 +51,7 @@ Photo2の46秒後には、ボートのすぐ近くまで様子をうかがいに
 {{< figure src="fig10.jpg" title="Photo 10. A flock of Plain-pouched hornbill (Rhyticeros subruficollis).  ムジシワコブサイチョウの群れ" lightbox="true" >}}
 
 
-Smooth-coated otter (*Lutrogale perspicillata*) in Myeik Archipelago, Myanmar
+# Smooth-coated otter (*Lutrogale perspicillata*) in Myeik Archipelago, Myanmar
 
 Myeik Archipelago is located in the eastern part of Andaman sea, southern Myanmar. There are many varieties of environments such as the mangroves, the muddy banks, the rocky reefs and the marine coral. Smoot-coated otter, Dugon and Ayeyarwady Dolphin (Irrawaddy Dolphin) occur in these environments. Also, the fishery activities are very high and important in this area. Ngapi (fermented shrimp paste) and the dry shrimp are the famous products.
 
