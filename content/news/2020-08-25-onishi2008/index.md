@@ -18,7 +18,7 @@ authors:
 
 ビロードカワウソは、主に昼行性なので日中にボートから観察することができます。現地では、４〜５人乗りの小さなエンジンボートを借り上げて調査に向かいます。ミェイクから１時間もボートを走らせると、マングローブに到着します。観察時にはデジカメで記録を取るのですが、ボートの水しぶきや雨季のスコール対策で、常にカメラにレインコートをかぶせています。最初の頃は、ビニール袋で手製のレインカバーを作って、カメラをカバーしていましたが、最近は、thinkTANKというメーカーのレインカバーを使っています。雨季の土砂降りでも、風が強くて全身に飛沫を浴びるような状況でも、カメラを守ってくれる優れものです。カワウソを観察するときには、少し離れたところから観察するため、600mmの望遠レンズを使って撮影しています。これくらいの望遠レンズを使うと、双眼鏡で観察しているのに近い見え具合です（Photo 1）。
 
-{{< figure src="photo1.jpg" title="Photo 1. Smooth-coated otter (Lutrogale perspicillata) in the bank of the mangrove area in Myeik Archiperago, Myanmar.  メルギー諸島（ミャンマー）のマングローブ林の干潟を走るビロードカワウソ" lightbox="true" >}}
+{{< figure src="photo1.jpg" title="Photo 1. Smooth-coated otter (*Lutrogale perspicillata*) in the bank of the mangrove area in Myeik Archiperago, Myanmar.  メルギー諸島（ミャンマー）のマングローブ林の干潟を走るビロードカワウソ" lightbox="true" >}}
 
 野生動物なので、不用意な近づき方をすると、警戒されてしまいます。しかし、なかには好奇心旺盛な個体もいて、ときにはカワウソの方から近づいて来ることもあります。Photo 2は、exifによると撮影距離が35.5mですが、このあと、この個体は、私らに興味津々で、止まっているボートに向かってどんどん近づいてきました（Photo 3）。
 
@@ -44,12 +44,11 @@ Photo2の46秒後には、ボートのすぐ近くまで様子をうかがいに
 
 メルギー諸島には保護区やコミュニティフォレストなどもありますが、今回紹介した地域は、保護区には指定されていません。漁業も盛んで、人の暮らしている地域の中で、カワウソたちも生活しています。こうした保護区以外の地域に生息している野生動物たちと共存を続けていくことも、大きな課題なのではないでしょうか。
 
-{{< figure src="photo8.jpg" title="Photo 8. Lesser Adjutant (Leptoptilos javanicus) was walking on the mud bank. Lesser Adjutant occurs more frequently.  マングローブ域の干潟を歩くコハゲコウ。コハゲコウのほうが出会える確立は高いです。" lightbox="true" >}}
+{{< figure src="photo8.jpg" title="Photo 8. Lesser Adjutant (*Leptoptilos javanicus*) was walking on the mud bank. Lesser Adjutant occurs more frequently.  マングローブ域の干潟を歩くコハゲコウ。コハゲコウのほうが出会える確立は高いです。" lightbox="true" >}}
 
-{{< figure src="photo9.jpg" title="Photo 9. A juvenile of White-bellied sea eagle (Haliaeetus leucogaster) was perching on the branch with the fish.  シロハラウミワシの若鳥が、魚を獲って枝に止まったところ。" lightbox="true" >}}
+{{< figure src="photo9.jpg" title="Photo 9. A juvenile of White-bellied sea eagle (*Haliaeetus leucogaster*) was perching on the branch with the fish.  シロハラウミワシの若鳥が、魚を獲って枝に止まったところ。" lightbox="true" >}}
 
-{{< figure src="photo10.jpg" title="Photo 10. A flock of Plain-pouched hornbill (Rhyticeros subruficollis).  ムジシワコブサイチョウの群れ" lightbox="true" >}}
-
+{{< figure src="photo10.jpg" title="Photo 10. A flock of Plain-pouched hornbill (*Rhyticeros subruficollis*).  ムジシワコブサイチョウの群れ" lightbox="true" >}}
 
 # Smooth-coated otter (*Lutrogale perspicillata*) in Myeik Archipelago, Myanmar
 
