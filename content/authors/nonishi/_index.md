@@ -18,7 +18,9 @@ role: 理事
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 京都先端科学大学 / IUCNカワウソ専門家グループ
+bio: |
+  京都先端科学大学 / IUCNカワウソ専門家グループ
+  OHNISHI Nobuhiro, Kyoto University of Advanced Science/ IUCN Otter Specialist Group
 
 # interests:
 # - Artificial Intelligence
