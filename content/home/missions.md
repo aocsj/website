@@ -1,7 +1,7 @@
 +++
 widget = "featurette"
 headless = true
-weight = 20
+weight = 10
 
 title = "協会の使命"
 
