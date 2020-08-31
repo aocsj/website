@@ -18,7 +18,7 @@ role: 理事
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 東京大学 / IUCNカワウソ専門家グループ
+bio: 東京農業大学 / IUCNカワウソ専門家グループ
 
 # interests:
 # - Artificial Intelligence
