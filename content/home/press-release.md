@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "<span>プレス</span><span>リリース</span>"
+title = "プレスリリース"
 subtitle = ""
 
 [content]
@@ -60,5 +60,5 @@ subtitle = ""
   css_style = ""
   
   # CSS class.
-  css_class = "span-inline-block"
+  # css_class = "span-inline-block"
 +++
