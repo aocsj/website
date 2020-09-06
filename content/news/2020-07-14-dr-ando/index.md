@@ -10,6 +10,8 @@ authors:
 ---
 # 原文（英語）
 
+![Photo of Dr.Ando](https://iucnosgbull.org/Volume37/Motokazu_Ando.png)
+
 **Dr. Motokazu Ando\
 27th March 1950 – 24th March 2020**
 
