@@ -29,6 +29,8 @@ What I was always impressed with was that Dr. Ando persisted to publish graduati
 
 The students who were taught by Dr Ando and those who were influenced by his otter book are growing. I still don't feel that Ando-san, who guided me to otter research and international activities, died. The activities of the otter research group, which was created by the two of us, have been passed on to the Japan Asian Otters Conservation Association, which is supported by young people, and the seeds sown by Dr Ando are gradually growing..
 
+Hiroshi Sasaki (2020). Obituaries. IUCN/SSC Otter Specialist Group Bulletin 37(2):i
+
 # 日本語訳
 
 安藤元一博士 1950年3月27日-2020年3月24日
