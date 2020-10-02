@@ -31,7 +31,7 @@ defaultContentLanguage = "ja"
 hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
-disableLanguages = ["en"]
+# disableLanguages = ["en"]
 
 summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
 paginate = 10  # Number of items per page in paginated lists.
@@ -47,6 +47,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   publication_types = "/publication-type/:slug/"
   news = "/:year/:month/:slug/"
   press-release = "/:year/:month/:slug"
+  store = "/store/:slug"
 
 
 [outputs]

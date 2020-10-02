@@ -4,35 +4,39 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "ホーム"
+  name = "Home"
   url = "#cover"
   weight = 10
 
 [[main]]
-  name = "協会について"
+  name = "About"
   url = "/about"
   weight = 20
 
 [[main]]
-  name = "寄付のお願い"
+  name = "Donation"
   url = "/donation"
   weight = 30
 
-[[main]]
-  name = "お知らせ"
-  url = "#news"
-  weight = 40
+# [[main]]
+#   name = "News"
+#   url = "#news"
+#   weight = 40
+# 
+# [[main]]
+#   name = "Press releases"
+#   url = "#press-release"
+#   weight = 50
 
 [[main]]
-  name = "プレスリリース"
-  url = "#press-release"
-  weight = 50
-
-[[main]]
-  name = "お問い合わせ"
+  name = "Contacts"
   url = "#contact"
   weight = 60
 
+[[main]]
+  name = "Store"
+  url = "/store"
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
