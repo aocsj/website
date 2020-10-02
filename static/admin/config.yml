@@ -2,6 +2,12 @@ backend:
   name: github
   repo: aocsj/website
   squash_merges: true
+  commit_messages:
+    create: "{{collection}}の作成: “{{slug}}” (by @{{author-login}})"
+    update: "{{collection}}の編集: “{{slug}}” (by @{{author-login}})"
+    delete: "{{collection}}の削除: “{{slug}}” (by @{{author-login}})"
+    uploadMedia: "メディアのアップロード: “{{path}}”"
+    deleteMedia: "メディアの削除: “{{path}}”"
 
 locale: ja
 
@@ -48,6 +54,9 @@ collections:
         pattern:
           - '.*featured\..{3,4}$'
           - ファイル名が小文字の "featured"
+        media_library:
+          config:
+            max_file_size: 512000
         hint: |
           ファイルサイズが 500 KB 未満でファイル名が featured である画像を送信してください。
           基本的にはサムネイル画像は必ず送信するようにしてください。
@@ -66,11 +75,11 @@ collections:
         widget: relation
         collection: authors
         searchFields:
-          - name
+          - title
           - authors.0
         valueField: authors.0
         displayFields:
-          - name
+          - title
           - authors.0
         multiple: true
       - label: 本文
@@ -78,7 +87,7 @@ collections:
         widget: markdown
         hint: |
           このフィールドに直接日本語入力をするとうまくいきません。
-          他のアプリで文章だけ先に作成してから、このフィールドにコピー・アンド・ペーストしてください。
+          他のアプリ（メモ帳など）で文章だけ先に作成してから、このフィールドにコピー・アンド・ペーストしてください。
           太字・斜体などの装飾は、装飾を行いたい部分を選択してから上部のボタンで適用してください。
   - name: authors
     label: 執筆者一覧
@@ -90,7 +99,7 @@ collections:
     public_folder: ''
     hide: true
     fields:
-      - name: name
+      - name: title
         widget: string
       - name: authors
         widget: list
