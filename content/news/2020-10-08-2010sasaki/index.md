@@ -9,17 +9,13 @@ image:
 authors:
   - hsasaki
 ---
-
-
-
-
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -72,9 +68,9 @@ authors:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -653,9 +649,9 @@ authors:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -679,7 +675,7 @@ authors:
 	mso-hansi-theme-font:minor-latin;
 	mso-font-kerning:1.0pt;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -687,15 +683,15 @@ authors:
 
 <!--EndFragment-->
 
-![](1.jpg "図1.タイ南部プルトアダンでのスマトラカワウソ調査 前列左端：ブハヌディン氏、後列左から2人目：ブサボン氏、右端：佐々木")
+![図1.タイ南部プルトアダンでのスマトラカワウソ調査 前列左端：ブハヌディン氏、後列左から2人目：ブサボン氏、右端：佐々木](1.jpg "図1.タイ南部プルトアダンでのスマトラカワウソ調査 前列左端：ブハヌディン氏、後列左から2人目：ブサボン氏、右端：佐々木")
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -748,9 +744,9 @@ authors:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1329,9 +1325,9 @@ authors:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1355,7 +1351,7 @@ authors:
 	mso-hansi-theme-font:minor-latin;
 	mso-font-kerning:1.0pt;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -1363,15 +1359,13 @@ authors:
 
 マレーシアでは現在スマトラカワウソ、コツメカワウソ、ビロードカワウソのカワウソ3種が確認されています。ユーラシアカワウソの生息記録もかつて一つだけありますが、その真偽は不明です。糞DNAやスマトラカワウソの死体から明らかになった3種の分布を図2に示しました。この調査の欠点は、調査したところしか情報が無いということと、スマトラカワウソは死体の発見のみの確認である点です（図3）。それでも、3種とも半島マレーシアに広く分布していることが分かります。
 
-
-
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -1424,9 +1418,9 @@ authors:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -2005,9 +1999,9 @@ authors:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -2031,25 +2025,23 @@ authors:
 	mso-hansi-theme-font:minor-latin;
 	mso-font-kerning:1.0pt;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-![](featured.png "図2. 半島マレーシアのカワウソの分布（Abdul-Patah et al.2020より） Distributions of otters in Peninsular Malaysia using fecal DNA and road killed otters.")
+![図2. 半島マレーシアのカワウソの分布（Abdul-Patah et al.2020より） Distributions of otters in Peninsular Malaysia using fecal DNA and road killed otters.](featured.png "図2. 半島マレーシアのカワウソの分布（Abdul-Patah et al.2020より） Distributions of otters in Peninsular Malaysia using fecal DNA and road killed otters.")
 
-![](3.png "図3.泥炭湿地林の近くの道路で見つけたスマトラカワウソの交通事故死体 A road killed hairy-nosed otter near peat swamp forests in Pekan")
+![図3.泥炭湿地林の近くの道路で見つけたスマトラカワウソの交通事故死体 A road killed hairy-nosed otter near peat swamp forests in Pekan](3.png "図3.泥炭湿地林の近くの道路で見つけたスマトラカワウソの交通事故死体 A road killed hairy-nosed otter near peat swamp forests in Pekan")
 
 <!--StartFragment-->
 
 では、どのような環境に生息しているのでしょうか。私たちの記録としてはスマトラカワウソについては交通事故死体による確認しかないのですが、泥炭湿地林、アブラヤシ植林地、スズ鉱山跡の池など多様な環境で発見できました。これ以外に、北部のケダ州やパハン州の熱帯林で自動撮影による確認が行われ、多様な環境に生息していることが明らかになりつつあります。図4には、コツメカワウソとビロードカワウソの生息地選択を示しました。コツメカワウソは、水田に多く、小さな河川を利用し、海岸林やマングローブ林では水辺を利用していました。ビロードカワウソは、水田、大きな河川、マングローブ林、スズ鉱山跡の池を利用していました。マングローブや大きな池では、ビロードカワウソが泳ぐ姿が観察できます（図5）。ビロードカワウソが水田で観察されるのに驚かれる方がおられるかもしれません。私たちが調査している水田地帯では、水位がダムによってコントロールされているのですが、ビロードカワウソとコツメカワウソが水田地帯で水路ごとに交代で観察されたりしています。水田やその周辺の水路には多くの小魚が生息しており、良い餌となっています。
 
-
-
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -2102,9 +2094,9 @@ authors:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -2683,9 +2675,9 @@ authors:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -2709,9 +2701,9 @@ authors:
 	mso-hansi-theme-font:minor-latin;
 	mso-font-kerning:1.0pt;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-![](4.png "図4. コツメカワウソ（青）とビロードカワウソ（赤）の生息地選択（Abdul-Patah et al. 2014 より） Habitat selections by small clawed and smooth-coated otters in Peninsular Malaysia.")
+![図4. コツメカワウソ（青）とビロードカワウソ（赤）の生息地選択（Abdul-Patah et al. 2014 より） Habitat selections by small clawed and smooth-coated otters in Peninsular Malaysia.](4.png "図4. コツメカワウソ（青）とビロードカワウソ（赤）の生息地選択（Abdul-Patah et al. 2014 より） Habitat selections by small clawed and smooth-coated otters in Peninsular Malaysia.")
 
 ![](5.jpg "図5.マングローブで魚をとるビロードカワウソ  A smooth-coated otter in mangrove.")
 
@@ -2719,15 +2711,13 @@ authors:
 
 コツメカワウソとビロードカワウソ何を食べているかを示したのが図6です。色が図4と入れ替わっているのでご注意ください。コツメカワウソは、昆虫、魚、カニ、カタツムリなどいろんな餌を食べているのに対して、ビロードカワウソは魚を主に食べており、エビは養殖場に侵入して食べたものです。
 
-
-
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -2780,9 +2770,9 @@ authors:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -3361,9 +3351,9 @@ authors:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -3387,23 +3377,21 @@ authors:
 	mso-hansi-theme-font:minor-latin;
 	mso-font-kerning:1.0pt;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-![](6.png "図6. コツメカワウソ（赤）とビロードカワウソ（青）の餌選択 （Abdul-Patah et al. 2014 より） Food habits of small clawed and smooth-coated otters in Peninsular Malaysia.")
+![図6. コツメカワウソ（赤）とビロードカワウソ（青）の餌選択 （Abdul-Patah et al. 2014 より） Food habits of small clawed and smooth-coated otters in Peninsular Malaysia.](6.png "図6. コツメカワウソ（赤）とビロードカワウソ（青）の餌選択 （Abdul-Patah et al. 2014 より） Food habits of small clawed and smooth-coated otters in Peninsular Malaysia.")
 
 <!--StartFragment-->
 
 糞から抽出したDNAを用いて遺伝的な分析も行なっており、コツメカワウソ、ビロードカワウソ、スマトラカワウソの系統的位置関係を分析し、コツメカワウソについてはタイとマレーシアのケランタン州以北とは遺伝的に異なるグループ（クレード）について新亜種、*Aonyx cinereus kecilensis*を提案しています（図7,Rosli *et al*.2014 and 2015）。
 
-
-
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -3456,9 +3444,9 @@ authors:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -4037,9 +4025,9 @@ authors:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -4063,23 +4051,21 @@ authors:
 	mso-hansi-theme-font:minor-latin;
 	mso-font-kerning:1.0pt;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-![](7.jpg "図7.コツメカワウソの亜種の提唱（Rosli et al.2014を修正） New subspecies of the small clawed otter.")
+![図7.コツメカワウソの亜種の提唱（Rosli et al.2014を修正） New subspecies of the small clawed otter.](7.jpg "図7.コツメカワウソの亜種の提唱（Rosli et al.2014を修正） New subspecies of the small clawed otter.")
 
 <!--StartFragment-->
 
 現在、水田地帯のコツメカワウソとビロードカワウソの関係について、糞DNAから個体識別まで行なう研究を進めています。しかし、分析が難航中です。予算獲得を目指している研究は、スマトラカワウソについて環境DNAから調べていくプロジェクトと、シンガポールでビロードカワウソとされているカワウソが全てコツメカワウソとの雑種であることから、マレーシアに雑種がどれくらい浸透しているかを調べるプロジェクトです。まだまだ研究することが山積みです。
 
-
-
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -4132,9 +4118,9 @@ authors:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -4713,9 +4699,9 @@ authors:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -4739,7 +4725,7 @@ authors:
 	mso-hansi-theme-font:minor-latin;
 	mso-font-kerning:1.0pt;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
