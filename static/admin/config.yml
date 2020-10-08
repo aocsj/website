@@ -45,7 +45,8 @@ collections:
           - 英数字最大 30 文字
       - label: 日付
         name: date
-        widget: date
+        widget: datetime
+        time_format: false
       - label: サムネイル画像
         name: thumbnail
         required: false
@@ -74,11 +75,11 @@ collections:
         required: false
         widget: relation
         collection: authors
-        searchFields:
+        search_fields:
           - title
           - authors.0
-        valueField: authors.0
-        displayFields:
+        value_field: authors.0
+        display_fields:
           - title
           - authors.0
         multiple: true
