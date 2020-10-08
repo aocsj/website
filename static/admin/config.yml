@@ -86,6 +86,21 @@ collections:
       - label: 本文
         name: body
         widget: markdown
+        buttons:
+          - bold
+          - italic
+          - link
+          - heading-two
+          - heading-three
+          - heading-four
+          - heading-five
+          - heading-six
+          - quote
+          - bulleted-list
+          - numbered-list
+        editor_components:
+          - image_shortcode
+          - youtube
         hint: |
           このフィールドに直接日本語入力をするとうまくいきません。
           他のアプリ（メモ帳など）で文章だけ先に作成してから、このフィールドにコピー・アンド・ペーストしてください。
