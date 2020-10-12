@@ -8,13 +8,13 @@ image:
 authors:
   - hsasaki
 ---
-2000年から半島マレーシアとタイで、ほとんど情報が無いスマトラカワウソの生息状況ついて、半島マレーシア野生生物国立公園局のブハヌディンさんとタイ国立公園野生動植物保全局のブサボン(Kanchanasaka)さんと自動撮影装置などを使い調査を開始しました（図1）。世界中の博物館を回って標本を調べてマレーシアにはかつて多く生息していた事を確認したのですが（Sasaki et al. 2009）、残念ながらその時は、マレーシアで確認できませんでした。
+2000年から半島マレーシアとタイで、ほとんど情報が無いスマトラカワウソの生息状況ついて、半島マレーシア野生生物国立公園局のブハヌディンさんとタイ国立公園野生動植物保全局のブサボン（Kanchanasaka）さんと自動撮影装置などを使い調査を開始しました（図1）。世界中の博物館を回って標本を調べてマレーシアにはかつて多く生息していた事を確認したのですが（Sasaki et al. 2009）、残念ながらその時は、マレーシアで確認できませんでした。
 
 {{< figure src="1.jpg" title="図1.タイ南部プルトアダンでのスマトラカワウソ調査 前列左端：ブハヌディン氏、後列左から2人目：ブサボン氏、右端：佐々木" >}}
 
 
 
-2010年度に、マレーシア国民大学に客員教授として1年間滞在し、半島マレーシアのカワウソの糞を集めて糞DNAから分布を調べました。私は、生態学が専門であり、イタチの研究でこれまでお世話になっていた九州大学の関口猛先生にDNAの実験についてご指導を頂きました。マレーシア国民大学のシューコール先生（生態学）とバドゥルル（Md-Zain）先生（分子遺伝学）との共同研究がこの時始まりました。この後、半島マレーシア野生生物国立公園局のパジル（Abdul-Patah）さんが、私の研究を発展させて、博士号を取得されました(Abdul-Patah 2015)。この博士論文によって、分布、生態、遺伝など多くのことが明らかにされ、徐々に論文になってきていますのでご紹介します。
+2010年度に、マレーシア国民大学に客員教授として1年間滞在し、半島マレーシアのカワウソの糞を集めて糞DNAから分布を調べました。私は、生態学が専門であり、イタチの研究でこれまでお世話になっていた九州大学の関口猛先生にDNAの実験についてご指導を頂きました。マレーシア国民大学のシューコール先生（生態学）とバドゥルル（Md-Zain）先生（分子遺伝学）との共同研究がこの時始まりました。この後、半島マレーシア野生生物国立公園局のパジル（Abdul-Patah）さんが、私の研究を発展させて、博士号を取得されました（Abdul-Patah 2015）。この博士論文によって、分布、生態、遺伝など多くのことが明らかにされ、徐々に論文になってきていますのでご紹介します。
 
 マレーシアでは現在スマトラカワウソ、コツメカワウソ、ビロードカワウソのカワウソ3種が確認されています。ユーラシアカワウソの生息記録もかつて一つだけありますが、その真偽は不明です。糞DNAやスマトラカワウソの死体から明らかになった3種の分布を図2に示しました。この調査の欠点は、調査したところしか情報が無いということと、スマトラカワウソは死体の発見のみの確認である点です（図3）。それでも、3種とも半島マレーシアに広く分布していることが分かります。
 
@@ -50,9 +50,9 @@ In Penisular Malaysia, hairy-nosed otters were surveyed with Mr. Burhanuddin(Dep
 
 ---
 
-Abdul-Patah, P., Nur-Syuhada, S., Shukor, M.N., Sasaki, H. and Md-Zain, B.M. 2014. Habitat and Food Resources of otters (Mustelidae) in Peninsular Malaysia. AIP Conference Proceedings 1614:693-699.
-Abdul-Patah, P. 2015. Distribution and Ecology of otter (Mustelidae) in Penisular Malaysia.  Ph.D. Thesis,UKM University, Malaysia.278pp.
-Abdul-Patah, P., Sasaki, H., Sekiguchi, T., Shukor, M.N., Mohd-Yusof, N.S., Abdul-Latiff, M.A.B. and Md-Zain, B.M. 2020.  Molecular DNA-based spatial mapping technique predicting diversity and distribution of otters (Lutrinae) in Peninsular Malaysia using non-invasive fecal samples. Mammal Research：https://doi.org/10.1007/s13364-020-00532-9
-Rosli, M.K.A., Syed-Shabthar, S.M.F., Abdul-Patah, P., Abdul-Samad, Z., Abdul, S.N., Burhanuddin, M.N., Zulkifli, N.A., Shukor, M.N., Budsabong, K., Changtragoon, S., Sekiguchi, T., Sasaki, H. and Md-Zain, B.M. 2014. A New Subspecies Identification and Population Study of the Asian Small-Clawed Otter (*Aonyx cinereus*) in Malay Peninsula and Southern Thailand Based on Fecal DNA Method. Scientific World Journal Volume 2014, Article ID 457350, 11 pages.
-Rosli, M.K.A., Abdul-Patah, P., Syed-Shabthar, S.M.F., Burhanuddin, M.N., Sekiguchi, T., Sasaki, H., Shukor, M.N., Yaakop, S. and Md-Zain, B.M. 2015.  Phylogenetic relationships of the Malay peninsula otters (*Lutra sumatrana*, *Lutrogale perspicillata*, and *Aonyx cinereus*) based on DNA sequences of mitochondrial D-loop region. The Journal of Animal & Plant Sciences, 25(3):836-843.
-Sasaki, H., Burhanuddin, M.N. and Kanchanasaka, B. 2009. Past and present　distribution of the hairy-nosed otter Lutra sumatrana Gray 1865. Mammal study 34: 223-229.
+- Abdul-Patah, P., Nur-Syuhada, S., Shukor, M.N., Sasaki, H. and Md-Zain, B.M. 2014. Habitat and Food Resources of otters (Mustelidae) in Peninsular Malaysia. AIP Conference Proceedings 1614:693-699.
+- Abdul-Patah, P. 2015. Distribution and Ecology of otter (Mustelidae) in Penisular Malaysia.  Ph.D. Thesis,UKM University, Malaysia.278pp.
+- Abdul-Patah, P., Sasaki, H., Sekiguchi, T., Shukor, M.N., Mohd-Yusof, N.S., Abdul-Latiff, M.A.B. and Md-Zain, B.M. 2020.  Molecular DNA-based spatial mapping technique predicting diversity and distribution of otters (Lutrinae) in Peninsular Malaysia using non-invasive fecal samples. Mammal Research：https://doi.org/10.1007/s13364-020-00532-9
+- Rosli, M.K.A., Syed-Shabthar, S.M.F., Abdul-Patah, P., Abdul-Samad, Z., Abdul, S.N., Burhanuddin, M.N., Zulkifli, N.A., Shukor, M.N., Budsabong, K., Changtragoon, S., Sekiguchi, T., Sasaki, H. and Md-Zain, B.M. 2014. A New Subspecies Identification and Population Study of the Asian Small-Clawed Otter (*Aonyx cinereus*) in Malay Peninsula and Southern Thailand Based on Fecal DNA Method. Scientific World Journal Volume 2014, Article ID 457350, 11 pages.
+- Rosli, M.K.A., Abdul-Patah, P., Syed-Shabthar, S.M.F., Burhanuddin, M.N., Sekiguchi, T., Sasaki, H., Shukor, M.N., Yaakop, S. and Md-Zain, B.M. 2015.  Phylogenetic relationships of the Malay peninsula otters (*Lutra sumatrana*, *Lutrogale perspicillata*, and *Aonyx cinereus*) based on DNA sequences of mitochondrial D-loop region. The Journal of Animal & Plant Sciences, 25(3):836-843.
+- Sasaki, H., Burhanuddin, M.N. and Kanchanasaka, B. 2009. Past and present　distribution of the hairy-nosed otter Lutra sumatrana Gray 1865. Mammal study 34: 223-229.
