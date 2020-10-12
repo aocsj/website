@@ -18,7 +18,7 @@ authors:
 
 マレーシアでは現在スマトラカワウソ、コツメカワウソ、ビロードカワウソのカワウソ3種が確認されています。ユーラシアカワウソの生息記録もかつて一つだけありますが、その真偽は不明です。糞DNAやスマトラカワウソの死体から明らかになった3種の分布を図2に示しました。この調査の欠点は、調査したところしか情報が無いということと、スマトラカワウソは死体の発見のみの確認である点です（図3）。それでも、3種とも半島マレーシアに広く分布していることが分かります。
 
-{{< figure src="featured.png" title="図2. 半島マレーシアのカワウソの分布（Abdul-Patah et al.2020より） Distributions of otters in Peninsular Malaysia using fecal DNA and road killed otters. 黄色四角：スマトラカワウソ、赤丸：コツメカワウソ、黒三角：ビロードカワウソ" >}}
+{{< figure src="featured.png" title="図2. 半島マレーシアのカワウソの分布（Abdul-Patah et al. 2020より） Distributions of otters in Peninsular Malaysia using fecal DNA and road killed otters. 黄色四角：スマトラカワウソ、赤丸：コツメカワウソ、黒三角：ビロードカワウソ" >}}
 
 {{< figure src="3.png" title="図3.泥炭湿地林の近くの道路で見つけたスマトラカワウソの交通事故死体 A road killed hairy-nosed otter near peat swamp forests in Pekan" >}}
 
@@ -38,15 +38,15 @@ authors:
 
 
 
-糞から抽出したDNAを用いて遺伝的な分析も行なっており、コツメカワウソ、ビロードカワウソ、スマトラカワウソの系統的位置関係を分析し、コツメカワウソについてはタイとマレーシアのケランタン州以北とは遺伝的に異なるグループ（クレード）について新亜種、 *Aonyx cinereus kecilensis* を提案しています（図7, Rosli et al.2014 and 2015）。
+糞から抽出したDNAを用いて遺伝的な分析も行なっており、コツメカワウソ、ビロードカワウソ、スマトラカワウソの系統的位置関係を分析し、コツメカワウソについてはタイとマレーシアのケランタン州以北とは遺伝的に異なるグループ（クレード）について新亜種、 *Aonyx cinereus kecilensis* を提案しています（図7, Rosli et al. 2014 and 2015）。
 
-{{< figure src="7.jpg" title="図7.コツメカワウソの亜種の提唱（Rosli et al.2014を修正） New subspecies of the small clawed otter." >}}
+{{< figure src="7.jpg" title="図7.コツメカワウソの亜種の提唱（Rosli et al. 2014を修正） New subspecies of the small clawed otter." >}}
 
 
 
 現在、水田地帯のコツメカワウソとビロードカワウソの関係について、糞DNAから個体識別まで行なう研究を進めています。しかし、分析が難航中です。予算獲得を目指している研究は、スマトラカワウソについて環境DNAから調べていくプロジェクトと、シンガポールでビロードカワウソとされているカワウソが全てコツメカワウソとの雑種であることから、マレーシアに雑種がどれくらい浸透しているかを調べるプロジェクトです。まだまだ研究することが山積みです。
 
-In Penisular Malaysia, hairy-nosed otters were surveyed with Mr. Burhanuddin(Department of Wildlife and National Parks) from 2000 but we failed to find it.  From 2010, I started to study otters in Peninsular Malaysia with Dr.Shukor and Dr.Badrul(UKM) and Dr.Sekiguchi(Kyusyu Univ.) using Fecal DNA. Mr.Pazil got Ph.D. by the study of distribution and ecology of otters in Peninsular Malaysia after my study. Our several papers shows the distribution, habitat selections, food habits of otters in Peninsular Malaysia. Our team will try to get fund for the studies of hairy-nosed otter by eDNA and hybrids between small clawed and smooth-coated otters in Peninsular Malaysia.
+In Penisular Malaysia, hairy-nosed otters were surveyed with Mr. Burhanuddin (Department of Wildlife and National Parks) from 2000 but we failed to find it.  From 2010, I started to study otters in Peninsular Malaysia with Dr. Shukor and Dr. Badrul (UKM) and Dr. Sekiguchi (Kyusyu Univ.) using Fecal DNA. Mr. Pazil got Ph.D. by the study of distribution and ecology of otters in Peninsular Malaysia after my study. Our several papers shows the distribution, habitat selections, food habits of otters in Peninsular Malaysia. Our team will try to get fund for the studies of hairy-nosed otter by eDNA and hybrids between small clawed and smooth-coated otters in Peninsular Malaysia.
 
 ---
 
