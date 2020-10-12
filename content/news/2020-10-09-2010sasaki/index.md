@@ -38,7 +38,7 @@ authors:
 
 
 
-糞から抽出したDNAを用いて遺伝的な分析も行なっており、コツメカワウソ、ビロードカワウソ、スマトラカワウソの系統的位置関係を分析し、コツメカワウソについてはタイとマレーシアのケランタン州以北とは遺伝的に異なるグループ（クレード）について新亜種、 **Aonyx cinereus kecilensis** を提案しています（図7, Rosli et al.2014 and 2015）。
+糞から抽出したDNAを用いて遺伝的な分析も行なっており、コツメカワウソ、ビロードカワウソ、スマトラカワウソの系統的位置関係を分析し、コツメカワウソについてはタイとマレーシアのケランタン州以北とは遺伝的に異なるグループ（クレード）について新亜種、 *Aonyx cinereus kecilensis* を提案しています（図7, Rosli et al.2014 and 2015）。
 
 {{< figure src="7.jpg" title="図7.コツメカワウソの亜種の提唱（Rosli et al.2014を修正） New subspecies of the small clawed otter." >}}
 
@@ -51,6 +51,6 @@ In Penisular Malaysia, hairy-nosed otters were surveyed with Mr. Burhanuddin(Dep
 Abdul-Patah,P., Nur-Syuhada,S., Shukor,M.N., Sasaki,H. and Md-Zain,B.M. 2014. Habitat and Food Resources of otters (Mustelidae) in Peninsular Malaysia. AIP Conference Proceedings 1614:693-699.
 Abdul-Patah,P. 2015. Distribution and Ecology of otter (Mustelidae) in Penisular Malaysia.  Ph.D. Thesis,UKM University, Malaysia.278pp.
 Abdul-Patah,P.,Sasaki,H.,Sekiguchi,T.,Shukor,M.N.,Mohd-Yusof,N.S., Abdul-Latiff,M.A.B. and Md-Zain,B.M. 2020.  Molecular DNA-based spatial mapping technique predicting diversity and distribution of otters (Lutrinae) in Peninsular Malaysia using non-invasive fecal samples. Mammal Research：https://doi.org/10.1007/s13364-020-00532-9
-Rosli,M.K.A., Syed-Shabthar,S.M.F., Abdul-Patah,P., Abdul-Samad,Z., Abdul,S.N., Burhanuddin,M.N., Zulkifli,N.A., Shukor,M.N., Budsabong,K., Changtragoon,S., Sekiguchi,T.,Sasaki,H.and Md-Zain,B.M. 2014. A New Subspecies Identification and Population Study of the Asian Small-Clawed Otter (**Aonyx cinereus**) in Malay Peninsula and Southern Thailand Based on Fecal DNA Method. Scientific World Journal Volume 2014, Article ID 457350, 11 pages.
-Rosli,M.K.A., Abdul-Patah,P., Syed-Shabthar,S.M.F., Burhanuddin,M.N., Sekiguchi,T., Sasaki,H., Shukor,M.N., Yaakop,S. and Md-Zain,B.M. 2015.  Phylogenetic relationships of the Malay peninsula otters (**Lutra sumatrana**, **Lutrogale perspicillata**, and **Aonyx cinereus**) based on DNA sequences of mitochondrial D-loop region. The Journal of Animal & Plant Sciences, 25(3):836-843.
+Rosli,M.K.A., Syed-Shabthar,S.M.F., Abdul-Patah,P., Abdul-Samad,Z., Abdul,S.N., Burhanuddin,M.N., Zulkifli,N.A., Shukor,M.N., Budsabong,K., Changtragoon,S., Sekiguchi,T.,Sasaki,H.and Md-Zain,B.M. 2014. A New Subspecies Identification and Population Study of the Asian Small-Clawed Otter (*Aonyx cinereus*) in Malay Peninsula and Southern Thailand Based on Fecal DNA Method. Scientific World Journal Volume 2014, Article ID 457350, 11 pages.
+Rosli,M.K.A., Abdul-Patah,P., Syed-Shabthar,S.M.F., Burhanuddin,M.N., Sekiguchi,T., Sasaki,H., Shukor,M.N., Yaakop,S. and Md-Zain,B.M. 2015.  Phylogenetic relationships of the Malay peninsula otters (*Lutra sumatrana*, *Lutrogale perspicillata*, and *Aonyx cinereus*) based on DNA sequences of mitochondrial D-loop region. The Journal of Animal & Plant Sciences, 25(3):836-843.
 Sasaki,H.,Burhanuddin,M.N. and Kanchanasaka,B. 2009. Past and present　distribution of the hairy-nosed otter Lutra sumatrana Gray 1865. Mammal study 34: 223-229.
