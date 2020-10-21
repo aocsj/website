@@ -39,6 +39,8 @@ authors:
 
 In Penisular Malaysia, hairy-nosed otters were surveyed with Mr. Burhanuddin (Department of Wildlife and National Parks) from 2000 but we failed to find it.  From 2010, I started to study otters in Peninsular Malaysia with Dr.Shukor and Dr. Badrul (UKM) and Dr. Sekiguchi (Kyusyu Univ.) using Fecal DNA. Mr.Pazil got Ph.D. by the study of distribution and ecology of otters in Peninsular Malaysia after my study. Our several papers shows the distribution, habitat selections, food habits of otters in Peninsular Malaysia. Our team will try to get fund for the studies of hairy-nosed otter by eDNA and hybrids between small clawed and smooth-coated otters in Peninsular Malaysia.
 
+---
+
 - Abdul-Patah, P., Nur-Syuhada, S., Shukor, M.N., Sasaki, H. and Md-Zain, B.M. 2014. Habitat and Food Resources of otters (Mustelidae) in Peninsular Malaysia. AIP Conference Proceedings 1614:693-699.
 - Abdul-Patah, P. 2015. Distribution and Ecology of otter (Mustelidae) in Penisular Malaysia.  Ph.D. Thesis, UKM University, Malaysia.278pp.
 - Abdul-Patah, P., Sasaki, H., Sekiguchi, T., Shukor, M.N., Mohd-Yusof, N.S., Abdul-Latiff, M.A.B. and Md-Zain, B.M. 2020.  Molecular DNA-based spatial mapping technique predicting diversity and distribution of otters (Lutrinae) in Peninsular Malaysia using non-invasive fecal samples. Mammal Research：https://doi.org/10.1007/s13364-020-00532-9
