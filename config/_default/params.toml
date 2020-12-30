@@ -121,9 +121,9 @@ coordinates = {latitude = "33.512981", longitude = "130.537250"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "facebook", icon_pack = "fab", name = "Facebookでフォロー", link = "https://www.facebook.com/aocsj1979"},
-  {icon = "instagram", icon_pack = "fab", name = "Instagramでフォロー", link = "https://www.instagram.com/otterconservationjapan/"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter でフォローする", link = "https://twitter.com/aocsj1979"},
+  {icon = "facebook", icon_pack = "fab", name = "Facebook でフォローする", link = "https://www.facebook.com/aocsj1979"},
+  {icon = "instagram", icon_pack = "fab", name = "Instagram でフォローする", link = "https://www.instagram.com/otterconservationjapan/"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
