@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 小口祐斗
+title: 岡田その
 
 # Username (this should match the folder name)
 authors:
-- yoguchi
+- sokada
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,16 +18,16 @@ role: 事務局員
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 京都大学理学研究科
+bio: 東京大学
 
 # interests:
 # - Artificial Intelligence
 
 # education:
-#  courses:
-#    - course: 学士 (理学)
-#      institution: 大阪大学
-#      year: 2020
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -36,7 +36,7 @@ bio: 京都大学理学研究科
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'yoguchi@protein.osaka-u.ac.jp'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 # - icon: facebook
 #   icon_pack: fab
 #   link: 'https://www.facebook.com/aocsj1979'  # For a direct email link, use "mailto:test@example.org".
@@ -55,6 +55,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- 事務局
+- ""
 ---
 
