@@ -23,10 +23,10 @@ image:
 
 また、会員様は無料でご参加いただけます。こちらも前日にURLをお送りいたします。
 
-また、寄付金付きのチケットをご購入の方には"獺祭"の当たる抽選にもご参加いただけます![🍶](https://static.xx.fbcdn.net/images/emoji.php/v9/t6a/1/16/1f376.png)
+また、寄付金付きのチケットをご購入の方には"獺祭"の当たる抽選にもご参加いただけます。
 
-園館関係者の方からイベントについて、HPやSNSに掲載したいとご連絡をいただいています。もちろん大歓迎です。園館内でのポスター掲示も、よろしければお願いいたします。
-
-ポスター高画質保存は[こちら]([https://d.kuku.lu/1a710ce41](https://d.kuku.lu/1a710ce41?fbclid=IwAR3fjm5OmJ66A0VqWwqkilinua63jErFexDmeCI7--crzkDdvOAV3fyIIKY))から
+園館関係者の方からイベントについて、HPやSNSに掲載したいとご連絡をいただいています。もちろん大歓迎です。
 
 動物園水族館関係者の方、保全に興味のある方、オンラインセミナーに参加してみたい方などたくさんの方に参加して欲しいと思っているので拡散してくださると嬉しいです！
+
+ポスター高画質保存は[こちら]([https://d.kuku.lu/1a710ce41](https://d.kuku.lu/1a710ce41?fbclid=IwAR3fjm5OmJ66A0VqWwqkilinua63jErFexDmeCI7--crzkDdvOAV3fyIIKY))から
