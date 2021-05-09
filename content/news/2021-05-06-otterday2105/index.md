@@ -15,7 +15,7 @@ image:
 
 寄付付きのチケットをご購入の方には、旭酒造様からのプレゼントである"獺祭"の当たる抽選へ参加できます！
 
-## **お申し込みは[こちら](peatix.com/event/1909296)から**
+**お申し込みは[こちら](peatix.com/event/1909296)から**
 
 
 
@@ -31,4 +31,4 @@ image:
 
 皆様のご参加を心よりお待ちしております。
 
-ポスター高画質保存は[こちら]([https://d.kuku.lu/1a710ce41](https://d.kuku.lu/1a710ce41?fbclid=IwAR3fjm5OmJ66A0VqWwqkilinua63jErFexDmeCI7--crzkDdvOAV3fyIIKY))から
+ポスター高画質保存は[こちら](https://d.kuku.lu/1a710ce41?fbclid=IwAR3fjm5OmJ66A0VqWwqkilinua63jErFexDmeCI7--crzkDdvOAV3fyIIKY)から
