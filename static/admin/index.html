@@ -67,6 +67,29 @@ CMS.registerEditorComponent({
     );
   }
 });
+
+CMS.registerEditorComponent({
+    id: "large",
+    label: "Large font",
+    fields: [{
+            name: "content",
+            label: "content",
+            widget: "markdown"
+        },
+    ],
+    pattern: /{{< large >}}(.*?){{< large \/>}}/,
+    fromBlock: function(match) {
+        return {
+            content: match[1],
+        };
+    },
+    toBlock: function(obj) {
+        return `{{< large >}}${obj.content}{{< large />}}`;
+    },
+    toPreview: function(obj) {
+        return `<span style="font-size: large;">${obj.content}</span>`;
+    },
+});
 </script>
 </body>
 </html>
