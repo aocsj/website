@@ -37,14 +37,14 @@ title = "寄付のお願い"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "/donation/#make-a-donation"
+  url = "/donation"
   label = "寄付する"
   icon_pack = "fas"
   icon = "hand-holding-usd"
   
 [cta_alt]
-  url = "/donation"
-  label = "協会への寄付について"
+  url = "/join-us"
+  label = "協会の一員になる"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
