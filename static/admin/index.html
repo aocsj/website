@@ -34,7 +34,7 @@ CMS.registerEditorComponent({
     return {
       src: match[1],
       title: match[2],
-      cssClass: match[3].split(' '),
+      cssClass: match[3]?.split?.(' ') ?? [],
     };
   },
   // Function to create a text block from an instance of this component
