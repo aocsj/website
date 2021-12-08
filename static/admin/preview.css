@@ -1,0 +1,8 @@
+/* table-like figure */
+figure.table {
+  display: table;
+}
+figure.table figcaption {
+  display: table-caption;
+  caption-side: top;
+}

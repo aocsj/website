@@ -62,3 +62,12 @@ h2 {
 .large {
   font-size: large;
 }
+
+// table-like figure
+figure.table {
+  display: table;
+  figcaption {
+    display: table-caption;
+    caption-side: top;
+  }
+}
