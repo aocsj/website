@@ -10,32 +10,45 @@
   <!-- Include the script that builds the page and powers Netlify CMS -->
 <script src="https://unpkg.com/netlify-cms@^2.10.61/dist/netlify-cms.js"></script>
 <script>
+CMS.registerPreviewStyle('/admin/preview.css');
 CMS.registerEditorComponent({
   // Internal id of the component
   id: "image_shortcode",
   // Visible label
   label: "Image",
   // Fields the user need to fill out when adding an instance of the component
-  fields: [{name: 'src', label: 'Image', widget: 'image'}, {name: 'title', label: 'Title', widget: 'string'}],
+  fields: [
+    { name: 'src', label: 'Image', widget: 'image' },
+    { name: 'title', label: 'Title', widget: 'string' },
+    { name: 'cssClass', label: 'Options', widget: 'select', multiple: true, options:
+      [
+        {label: '表として表示する（キャプションを上部へ）', value: 'table'},
+      ]
+    },
+  ],
   // Pattern to identify a block as being an instance of this component
   // {{< figure src="photo7.jpg" title="Photo 7. The recent digital camera could generate a photo image in the condition of being dark after sunset.  日没後でも、最近のデジタルカメラなら観察できることがあります" lightbox="true" >}}
-  pattern: /^{{< ?figure src="([^"]*)" title="([^"]*)"[^}>]*?>}}$/,
+  pattern: /^{{< ?figure src="([^"]*)" title="([^"]*)"(?: class="([^"]*)")?[^}>]*?>}}$/,
   // Function to extract data elements from the regexp match
   fromBlock: function(match) {
     return {
       src: match[1],
-      title: match[2]
+      title: match[2],
+      cssClass: match[3].split(' '),
     };
   },
   // Function to create a text block from an instance of this component
   toBlock: function(obj) {
-    return `{{< figure src="${obj.src}" title="${obj.title}" >}}`;
+    return `{{< figure src="${obj.src ?? ''}" title="${obj.title ?? ''}" class="${obj.cssClass?.join?.(' ') ?? ''}" >}}`;
   },
   // Preview output for this component. Can either be a string or a React component
   // (component gives better render performance)
   toPreview: function(obj) {
     return (
-      `<p><img src="${obj.src}" alt="${obj.src}"><br>${obj.title}</p>`
+      `<figure class="${obj.cssClass ?? ''}">` +
+      `<img src="${obj.src ? obj.src : 'https://placehold.jp/5dab9f/ffffff/200x200.png?text=Image'}">` +
+      `<figcaption>${obj.title ? obj.title : 'Title'}</figcaption>` +
+      `</figure>`
     );
   }
 });
