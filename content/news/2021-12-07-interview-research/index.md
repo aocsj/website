@@ -32,12 +32,17 @@ authors:
 
 本調査からメディアや宣伝がカワウソの認知度を上げていることや、人々は自分の生活に関わらないと身近にいる希少種を認識することは難しいことが分かりました。希少種の保護対策においては地域住民に対象種のことを知ってもらうことが重要で、対策が高い効果を得るためには幅広い広報を並行すべきと言えるでしょう。(本記事は山本ほか(2018)を再編成したものです)
 
+---
+
 ## Abstract
 
 Hearing survey on the recognition status of resident people on the otter was made at past and present otter habitats in Japan and Korea. In both countries, fishermen knew better about the otter. Recognition of other resident people that the otter was a rare animal species was low. From the comparison between Japan and Korea, it turned out that media and publicity raised the recognition of otter. For that reason, broad publicity is important to obtain high effectiveness of conservation measures.
 
+- - -
+
 ## 引用文献
-青木昭男 (1997) 「ニホンカワウソやーい!: 高知 のカワウソ読本 : 四国全域に幻の姿を追う」 pp. 97, 高知新聞社, 高知.
-安藤元一（2008）「ニホンカワウソ－絶滅に学ぶ 保全生物学」, 233pp., 東京大学出版会. 東京.
-金炫禛（2015）日本へのカワウソ再導入可能性検 討 -韓国におけるカワウソ生息状況から- 東 京農業大学博士学位論文, pp.155.
-山本佳代子, 金炫禛, 谷地森秀二, 安藤 元一 (2018) 日本と韓国におけるカワウソに関する聞き取り調査. ANIMATE (14) :13-17
+
+* 青木昭男 (1997) 「ニホンカワウソやーい!: 高知 のカワウソ読本 : 四国全域に幻の姿を追う」 pp. 97, 高知新聞社, 高知.
+* 安藤元一（2008）「ニホンカワウソ－絶滅に学ぶ 保全生物学」, 233pp., 東京大学出版会. 東京.
+* 金炫禛（2015）日本へのカワウソ再導入可能性検 討 -韓国におけるカワウソ生息状況から- 東京農業大学博士学位論文, pp.155.
+* 山本佳代子, 金炫禛, 谷地森秀二, 安藤 元一 (2018) 日本と韓国におけるカワウソに関する聞き取り調査. ANIMATE (14) :13-17
