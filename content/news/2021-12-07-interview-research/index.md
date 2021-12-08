@@ -17,23 +17,27 @@ authors:
 
 {{< figure src="2.jpg" title="図2．韓国における聞き取り調査地" >}}
 
-## **カワウソの認知度**
+## カワウソの認知度
+
 日本と韓国では、それぞれ34名と35名からお話を聞くことができました(表1)。カワウソという動物を知っている人は、日本が13名(38%)、韓国が30名（86%）で、本種の認知度には差がありました。
 日本でカワウソを目撃したことがあると答えた11名のうち7名は1979年に新荘川で話題になった個体を見たことが初めての目撃だったため、カワウソを普段から見かけることはなかったようでした。他方、沖合漁業をしていた漁民からは、船に乗ってきたり、網にかかったりしたカワウソを目撃していました。
 韓国においてもカワウソを目撃したことがある人の割合は日本と変わらず、漁民によるカワウソ目撃情報からも同じ傾向が見られました。海岸沿いで生活していても漁民でなければカワウソを見ることは少なかったですが、漁民の7割はカワウソを目撃したことがあると答えました(表1)。漁民以外で目撃したことがあったのは、ほとんどが貯水池や河川の近くで生活している人や港で店を運営している人に限られました。
 両国共にカワウソが身近で生息していることを知っている人は、カワウソという動物を知っている人の約8割で、上述したように目撃率においても大きな差が認められませんでした。これらを単純に比較することは難しいですが、韓国は目撃せずにカワウソの生息を知っている人が多いことが読み取れました。これには時代的・社会的な要因も大きく、韓国では目撃事例やカワウソの保護、カワウソによる漁業被害の報道が増えてきているため(金, 2015)、情報メディアや保護活動が大きな要因として働いていると思われます。
 
 ## カワウソの保護意識
+
 日本ではカワウソが生息していた当時、保護すべき対象の動物という意識は広まっていなかったようで、韓国においても保護に関する回答は得られませんでした。日本ではカワウソの保護が訴えられていても生息地と重複する地域の住民は、希少種であることを認識していなかった可能性が高く、同じく韓国でもカワウソが希少種であることを認識しているのは少数の漁民のみでした。希少種であることを知っている韓国の漁民の一人からは「被害があっても天然記念物だから獲れない」という話もありましたが、多数の漁民からは「昔から身近にいる動物であるので被害があっても特に気にしない」と答えられ、保護しないといけないという意識よりは、身近にいて当然な生き物として受け入れられている印象でした。
 
 {{< figure src="26-.png" title="表1．各質問項目に「はい」と答えた人の割合（%）（カッコ内は実数）" >}}
 
 本調査からメディアや宣伝がカワウソの認知度を上げていることや、人々は自分の生活に関わらないと身近にいる希少種を認識することは難しいことが分かりました。希少種の保護対策においては地域住民に対象種のことを知ってもらうことが重要で、対策が高い効果を得るためには幅広い広報を並行すべきと言えるでしょう。(本記事は山本ほか(2018)を再編成したものです)
 
-引用文献
+## Abstract
+
+Hearing survey on the recognition status of resident people on the otter was made at past and present otter habitats in Japan and Korea. In both countries, fishermen knew better about the otter. Recognition of other resident people that the otter was a rare animal species was low. From the comparison between Japan and Korea, it turned out that media and publicity raised the recognition of otter. For that reason, broad publicity is important to obtain high effectiveness of conservation measures.
+
+## 引用文献
 青木昭男 (1997) 「ニホンカワウソやーい!: 高知 のカワウソ読本 : 四国全域に幻の姿を追う」 pp. 97, 高知新聞社, 高知.
 安藤元一（2008）「ニホンカワウソ－絶滅に学ぶ 保全生物学」, 233pp., 東京大学出版会. 東京.
 金炫禛（2015）日本へのカワウソ再導入可能性検 討 -韓国におけるカワウソ生息状況から- 東 京農業大学博士学位論文, pp.155.
 山本佳代子, 金炫禛, 谷地森秀二, 安藤 元一 (2018) 日本と韓国におけるカワウソに関する聞き取り調査. ANIMATE (14) :13-17
-
-Hearing survey on the recognition status of resident people on the otter was made at past and present otter habitats in Japan and Korea. In both countries, fishermen knew better about the otter. Recognition of other resident people that the otter was a rare animal species was low. From the comparison between Japan and Korea, it turned out that media and publicity raised the recognition of otter. For that reason, broad publicity is important to obtain high effectiveness of conservation measures.
