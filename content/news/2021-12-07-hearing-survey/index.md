@@ -1,7 +1,7 @@
 ---
 title: 日本と韓国における聞き取り調査
 summary: 日本と韓国におけるカワウソの認知度および保護意識の聞き取り調査
-slug: Hearing survey
+slug: hearing-survey
 date: 2021-12-08T01:40:31.017Z
 image:
   preview_only: false
