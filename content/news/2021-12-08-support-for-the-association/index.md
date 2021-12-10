@@ -16,22 +16,22 @@ authors:
 
 <https://suzuri.jp/Asian_Otter_Conservation_Society_of_Japan>
 
-{{< figure src="144616629-5c4755f4-1406-4e9d-b6a5-e1c477251d75.jpg" title="フルグラフィックTシャツ 4,477円 （税込）" >}}
+{{< figure src="144616629-5c4755f4-1406-4e9d-b6a5-e1c477251d75.jpg" title="フルグラフィックTシャツ 4,477円 （税込）" class="" >}}
 
-{{< figure src="144616625-4c2a178f-6cf7-4ed0-ab66-0c36dd0e1378.jpg" title="トートバッグ 2,398円 （税込）" >}}
+{{< figure src="144616625-4c2a178f-6cf7-4ed0-ab66-0c36dd0e1378.jpg" title="トートバッグ 2,398円 （税込）" class="" >}}
 
-{{< figure src="144616620-a4d3cdb7-7bb8-4744-8d5e-4518bbaf7d28-2-.jpg" title="マグカップ 1,969円 （税込）" >}}
+{{< figure src="144616620-a4d3cdb7-7bb8-4744-8d5e-4518bbaf7d28-2-.jpg" title="マグカップ 1,969円 （税込）" class="" >}}
 
 オリジナルグッズ作製・販売サイトSUZURIにて、アジアに生息する5種のカワウソグッズを販売しています。グッズには、アジアに生息する５種類のカワウソ（ユーラシアカワウソ、スマトラカワウソ、コツメカワウソ、ビロードカワウソ、ラッコ）がデザインされています。使われているこのイラストは、●年の世界カワウソの日にあわせて札幌市円山動物園（<https://www.city.sapporo.jp/zoo/>）さんと協力して作ったパネルのもので、細部までこだわっています。さて、5種類のカワウソたちを見分けることができるでしょうか？
 Tシャツやマグカップ、リュックサックなど多様な商品がありますので、ぜひチェックをお願いします。
 
-{{< figure src="https://user-images.githubusercontent.com/93272084/144616630-18ea98f6-f6a8-4809-b987-6573f3637ef4.jpeg" title="カワウソ" >}}
+{{< figure src="https://user-images.githubusercontent.com/93272084/144616630-18ea98f6-f6a8-4809-b987-6573f3637ef4.jpeg" title="カワウソイ" class="" >}}
 
 ## 日本アジアカワウソ保全協会オリジナルLINEスタンプ
 
 <https://store.line.me/stickershop/product/15594218/ja>
 
-{{< figure src="144616702-8140895d-a300-472d-be7b-647fdb8b5c96.png" title="undefined" >}}
+{{< figure src="144616702-8140895d-a300-472d-be7b-647fdb8b5c96.png" title="undefined" class="" >}}
 
 カワウソのイラストで大変著名な鍵条漆先生（<https://twitter.com/kagijouurushi>）が当協会のために書き下ろしてくださったオリジナルLINEスタンプです！
 カワウソの行動の特徴がしっかりと捉えられており、もちっとしたイラストがとても可愛らしいです。40種どれもがとても使いやすい内容となっていますので、ぜひ毎日ご活用ください。
@@ -40,7 +40,7 @@ Tシャツやマグカップ、リュックサックなど多様な商品があ�
 
 <https://ocsj.asia/store/postcard/>
 
-{{< figure src="29-.png" title="ポストカード（5枚セット）　120円 （税込）" >}}
+{{< figure src="29-.png" title="ポストカード（5枚セット）　120円 （税込）" class="" >}}
 
 2020年の「世界カワウソの日」に、鍵条漆先生（<https://twitter.com/kagijouurushi>）に作成頂いたオリジナルイラストと、アジアに生息するユーラシアカワウソ、コツメカワウソ、ビロードカワウソ、スマトラカワウソのそれぞれ４種の写真を使用したポストカードです。
 ※4種のカワウソの写真については、購入ページに詳細がございます。
