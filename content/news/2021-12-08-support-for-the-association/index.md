@@ -16,9 +16,9 @@ authors:
 
 <https://suzuri.jp/Asian_Otter_Conservation_Society_of_Japan>
 
-{{< figure src="144616629-5c4755f4-1406-4e9d-b6a5-e1c477251d75.jpg" title="フルグラフィックTシャツ 4,477円 （税込）" class="" >}}
+{{< figure src="https://user-images.githubusercontent.com/93272084/144616629-5c4755f4-1406-4e9d-b6a5-e1c477251d75.jpg" title="フルグラフィックTシャツ 4,477円 （税込）" class="" >}}
 
-{{< figure src="144616625-4c2a178f-6cf7-4ed0-ab66-0c36dd0e1378.jpg" title="トートバッグ 2,398円 （税込）" class="" >}}
+{{< figure src="https://user-images.githubusercontent.com/93272084/144616625-4c2a178f-6cf7-4ed0-ab66-0c36dd0e1378.jpg" title="トートバッグ 2,398円 （税込）" class="" >}}
 
 {{< figure src="144616620-a4d3cdb7-7bb8-4744-8d5e-4518bbaf7d28-2-.jpg" title="マグカップ 1,969円 （税込）" class="" >}}
 
@@ -31,7 +31,7 @@ Tシャツやマグカップ、リュックサックなど多様な商品があ�
 
 <https://store.line.me/stickershop/product/15594218/ja>
 
-{{< figure src="144616702-8140895d-a300-472d-be7b-647fdb8b5c96.png" title="" class="table" >}}
+{{< figure src="https://user-images.githubusercontent.com/93272084/144616702-8140895d-a300-472d-be7b-647fdb8b5c96.png" title="" class="table" >}}
 
 カワウソのイラストで大変著名な[鍵条漆先生](https://twitter.com/kagijouurushi)が当協会のために書き下ろしてくださったオリジナルLINEスタンプです！
 カワウソの行動の特徴がしっかりと捉えられており、もちっとしたイラストがとても可愛らしいです。40種どれもがとても使いやすい内容となっていますので、ぜひ毎日ご活用ください。
