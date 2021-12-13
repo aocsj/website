@@ -16,9 +16,9 @@ authors:
 
 <https://suzuri.jp/Asian_Otter_Conservation_Society_of_Japan>
 
-{{< figure src="t-.jpg" title="フルグラフィックTシャツ 4,477円 （税込）" class="" >}}
+{{< figure src="144616629-5c4755f4-1406-4e9d-b6a5-e1c477251d75.jpg" title="フルグラフィックTシャツ 4,477円 （税込）" class="" >}}
 
-{{< figure src="bakku.jpg" title="トートバッグ 2,398円 （税込）" class="" >}}
+{{< figure src="144616625-4c2a178f-6cf7-4ed0-ab66-0c36dd0e1378.jpg" title="トートバッグ 2,398円 （税込）" class="" >}}
 
 {{< figure src="144616620-a4d3cdb7-7bb8-4744-8d5e-4518bbaf7d28-2-.jpg" title="マグカップ 1,969円 （税込）" class="" >}}
 
