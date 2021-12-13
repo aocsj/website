@@ -25,13 +25,13 @@ authors:
 オリジナルグッズ作製・販売サイトSUZURIにて、アジアに生息する5種のカワウソグッズを販売しています。グッズには、アジアに生息する５種類のカワウソ（ユーラシアカワウソ、スマトラカワウソ、コツメカワウソ、ビロードカワウソ、ラッコ）がデザインされています。使われているこのイラストは、●年の世界カワウソの日にあわせて[札幌市円山動物園](https://www.city.sapporo.jp/zoo/)さんと協力して作ったパネルのもので、細部までこだわっています。さて、5種類のカワウソたちを見分けることができるでしょうか？
 Tシャツやマグカップ、リュックサックなど多様な商品がありますので、ぜひチェックをお願いします。
 
-{{< figure src="https://user-images.githubusercontent.com/93272084/144616630-18ea98f6-f6a8-4809-b987-6573f3637ef4.jpeg" title="" class="table" >}}
+{{< figure src="https://user-images.githubusercontent.com/93272084/144616630-18ea98f6-f6a8-4809-b987-6573f3637ef4.jpeg" title="" class="" >}}
 
 ## 日本アジアカワウソ保全協会オリジナルLINEスタンプ
 
 <https://store.line.me/stickershop/product/15594218/ja>
 
-{{< figure src="https://user-images.githubusercontent.com/93272084/144616702-8140895d-a300-472d-be7b-647fdb8b5c96.png" title="" class="table" >}}
+{{< figure src="https://user-images.githubusercontent.com/93272084/144616702-8140895d-a300-472d-be7b-647fdb8b5c96.png" title="" class="" >}}
 
 カワウソのイラストで大変著名な[鍵条漆先生](https://twitter.com/kagijouurushi)が当協会のために書き下ろしてくださったオリジナルLINEスタンプです！
 カワウソの行動の特徴がしっかりと捉えられており、もちっとしたイラストがとても可愛らしいです。40種どれもがとても使いやすい内容となっていますので、ぜひ毎日ご活用ください。
