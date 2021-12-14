@@ -31,7 +31,7 @@ Tシャツやマグカップ、リュックサックなど多様な商品があ�
 
 <https://store.line.me/stickershop/product/15594218/ja>
 
-{{< figure src="https://user-images.githubusercontent.com/93272084/144616702-8140895d-a300-472d-be7b-647fdb8b5c96.png" title="" class="" >}}
+{{< figure src="https://user-images.githubusercontent.com/93272084/144616702-8140895d-a300-472d-be7b-647fdb8b5c96.png" title="LINEスタンプ　120円（税込）" class="" >}}
 
 カワウソのイラストで大変著名な[鍵条漆先生](https://twitter.com/kagijouurushi)が当協会のために書き下ろしてくださったオリジナルLINEスタンプです！
 カワウソの行動の特徴がしっかりと捉えられており、もちっとしたイラストがとても可愛らしいです。40種どれもがとても使いやすい内容となっていますので、ぜひ毎日ご活用ください。
