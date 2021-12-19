@@ -103,6 +103,36 @@ CMS.registerEditorComponent({
         return `<span style="font-size: large;">${obj.content}</span>`;
     },
 });
+
+CMS.registerEditorComponent({
+    id: "accordion",
+    label: "Accordion",
+    fields: [
+      {
+        name: "summary",
+        label: "summary",
+        widget: "string",
+      },
+      {
+        name: "content",
+        label: "content",
+        widget: "markdown",
+      },
+    ],
+    pattern: /{{< accordion summary="([^"]*)" >}}(.*?){{<\/ accordion >}}/,
+    fromBlock: function(match) {
+      return {
+        summary: match[1],
+        content: match[2],
+      };
+    },
+    toBlock: function(obj) {
+      return `{{< accordion summary="${obj.summary ?? ""}" >}}${obj.content ?? ""}{{</ accordion >}}`;
+    },
+    toPreview: function(obj) {
+        return `<details><summary>${obj.summary}</summary>${obj.content}</details>`;
+    },
+});
 </script>
 </body>
 </html>
