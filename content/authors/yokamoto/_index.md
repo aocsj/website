@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 事務局長
+role: 顧問
 
 # Organizations/Affiliations
 # organizations:
