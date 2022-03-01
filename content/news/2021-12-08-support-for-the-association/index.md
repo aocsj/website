@@ -12,7 +12,7 @@ authors:
 より気軽に当協会の活動にご協力頂けるよう、オリジナルグッズの販売を始めました。
 これらの収益はすべて当協会の活動に活用させて頂きます。カワウソたちのグッズを身近に感じながら、保全活動に参加しませんか？ご支援のほど、どうぞよろしくお願いいたします。
 
-## SUZURI内ショップ「Five Otters in Aisa」
+## SUZURI内ショップ「Five Otters in Asia」
 
 <https://suzuri.jp/Asian_Otter_Conservation_Society_of_Japan>
 
