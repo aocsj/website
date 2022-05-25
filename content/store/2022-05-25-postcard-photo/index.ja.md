@@ -23,7 +23,7 @@ summary: 当協会オリジナルの写真ポストカードセット
 自動撮影や交通事故死体の発見で、東南アジア各国で散発的に確認されていますが、その生態や生息状況はよく分かっていません。緊急の保護が必要とされる種であり、IUCNのレッドリストでEN（絶滅危惧IB類）に指定されています。この写真は、カンボジアのプノンタマオ野生生物レスキューセンターで保護されていたスマトラカワウソです。
 
 5. ラッコ (*Enhydra lutris*)  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+太平洋北部沿岸で生息しており、IUCNのレッドリストではEN（絶滅危惧IB類）に指定されています。北海道にもかつては広く分布してましたが、良質な毛皮を持っているため狩猟により絶滅しました。近年、歯舞諸島から分散してきたと考えられるものが定着繁殖をしています。この写真は、2020年9月19日に北海道の根室市で撮影されたものです。
 
 
 収益は、今後のカワウソ保全活動に役立てさせていただく予定です。

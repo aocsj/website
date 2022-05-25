@@ -8,7 +8,16 @@ summary: 当協会オリジナルのイラストポストカードセット
 値段は **5 ドル（送料込）** で、日本国内からご購入いただけます。（海外発送も準備中です）
 
 ## ポストカード内容説明
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+様々な分野でご活躍されているアーティストの方にご協力いただいた、世界カワウソの日の記念イラスト3年分をセットにしました。
+
+* 2020年  
+カワウソのイラストで著名な鍵条漆先生オリジナル作品！本協会とのコラボによって作成されました。
+
+* 2021年  
+NHK朝ドラの絵画指導などで知られる苅谷 昌江先生に作成されました。色彩が大変美しい作品です。
+
+* 2022年  
+対馬でご活躍される日本一ツシマヤマネコを描くデザイナー、吉野由起子先生の作品！世界カワウソの日フォーラムのテーマ「ラッコ」に合わせて作成されました。
 
 
 収益は、今後のカワウソ保全活動に役立てさせていただく予定です。
