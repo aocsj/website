@@ -18,7 +18,7 @@ role: 顧問
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 台湾新竹市立動物園 / IUCNカワウソ専門家グループ
+bio: WWFジャパン野生生物グループ / IUCNカワウソ専門家グループ
 
 # interests:
 # - Artificial Intelligence
